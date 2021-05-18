@@ -290,3 +290,5 @@ for c (
 
 # cleanup
 unset c; unset s; unset i;
+
+eval "$(pyenv init -)"
